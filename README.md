@@ -1,6 +1,15 @@
-frontend-nanodegree-arcade-game
-===============================
+Game "Collect the gemstones"
+============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+1. Installation 
 
-for self-checking their submission.
+Unpack the file game.zip in a directory. 
+
+2. How to play
+
+Open the index.html file in the browser by doubleclicking. 
+
+You can move the Player with the arrow keys in the field. 
+Avoid the bugs and collect as much gemstones as possible. Hurry up, because the beetles speed up. 
+
+Have Fun! 
